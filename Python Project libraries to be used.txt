@@ -1,0 +1,64 @@
+In this we will be using 
+the following libraries in oder to perform K-means Clustering on wikipedia articles which we have downloaded
+1) Nltk
+  a)Tokenization
+  b)Parsing
+  c)Classifiaction
+  d)Stemming
+  e)Tagging
+
+2) OS
+
+3) re
+  a)Lemmetizer
+
+4) skLearn
+  a)TF-IDF vectorization
+
+
+
+What is NLTK?
+The Natural Language Toolkit (NLTK) is a platform used for building Python programs that work with human language data for applying
+in statistical natural language processing (NLP). It contains text processing libraries for tokenization, parsing, classification, 
+stemming, tagging and semantic reasoning.
+	a)Tokenization:
+			Tokenization in NLP is the process by which a large quantity of text is divided into smaller parts called tokens.
+	b)Parsing:
+		   The processing of a piece of python program and converting these codes into machine language.
+	c)Classifiaction:
+			  Classification is the task of choosing the correct class label for a given input.
+	d)Stemming:
+		    Stemming is the process of reducing inflection in words to their root forms such as mapping a group of words to the same 
+		    stem even if the stem itself is not a valid word in the Language
+	e)Tagging:
+                   A process to mark up the words in text format for a particular part of a speech based on its definition and context.
+
+
+
+What is Os?
+The OS Library in Python provides functions for creating and removing a folder, fetching its contents, changing and identifying the current directory, etc.
+
+
+
+
+What is RE?
+A regular expression (or RE) specifies a set of strings that matches it; the functions in this module let you check if a particular string matches a given 
+regular expression (or if a given regular expression matches a particular string
+	a)Lemmetizer:
+		      Wordnet is a publicly available lexical database of over 200 languages that provides semantic relationships between its words.
+		      Lemmatization usually refers to doing things properly with the use of a vocabulary and morphological analysis of words, normally aiming 
+		      to remove inflectional endings only and to return the base or dictionary form of a word, which is known as the lemma.
+
+	      
+
+What is SkLearn?
+It's a very useful tool for data mining and data analysis and can be used for personal as well as commercial use. Python Scikit-learn lets users perform various 
+Machine Learning tasks and provides a means to implement Machine Learning in Python.
+	a)TF-IDF vectorization:
+			      TF-IDF is an abbreviation for Term Frequency Inverse Document Frequency. This is very common algorithm to transform text into a meaningful 
+			      representation of numbers which is used to fit machine algorithm for prediction.
+
+
+
+
+      
